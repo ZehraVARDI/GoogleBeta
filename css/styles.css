@@ -1,0 +1,75 @@
+img{
+    margin: auto;
+    display: block;
+}
+p.center{
+    text-align: center;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    font-size: 18px;
+    display: flexbox;
+}
+p.margin{
+    margin: 0% 0% ;
+}
+.center2{
+    margin: 0% auto;
+
+}
+input{
+    display: block;
+    margin:0 auto;
+    border: 1px solid black;
+    width: 300px;
+}
+
+a:visited{
+    color: darkblue;
+}
+a:link{
+    color: blue;
+}
+a:active{
+    color: red;
+}
+.container{
+    margin: 2px 5%;
+    padding-bottom: 10px;
+    height: 100px;
+}
+.bg-container{
+    background-color: #EEEEEE;
+
+}
+.content{/* butonları ve linkleri ortalamak için bu sınıfı kullandım*/
+    text-align: center;
+}
+.content-float{
+    float: left;
+}
+.div-p-h{
+    height: 100%;
+    padding-top: 7px;
+}
+#div1{
+    background-color: #7EE5DA;
+    width: 37.95%;
+    margin-right: 0.05%;
+    margin-top: 0.05%;
+}
+#div2
+{
+    background-color: #70CCC2;
+    width: 23.9%;
+    margin: 0.05%;
+}
+#div3{
+    background-color: #62B3AA;
+    width: 37.95%;
+    margin-left: 0.05%;
+    margin-top: 0.05%;
+}
+a.center{
+    text-align: center;
+    display: block;
+}
